@@ -9,3 +9,11 @@ JavaScript
 PHP
 
 These projects focus on building responsive user interfaces and implementing CRUD (Create, Read, Update, Delete) operations.
+
+Web-Development-Projects/
+│
+├── Minor-Project/
+│   └── Student-Management-System (HTML Based)
+│
+└── Major-Project/
+    └── (To Be Added)
